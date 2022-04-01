@@ -10,7 +10,7 @@ body, p, ul {
 
 body {
     margin: initial;
-    background-image: url(images/bg2.jpg);
+    background-image: url(bg2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
